@@ -1,4 +1,12 @@
-# 📊 Mixture Regression
+# 📊 ِAutoMixRegPY
+
+AutoMixReg is an R package for simulating and fitting Mixture of Linear Regressions using the Expectation-Maximization (EM) algorithm. It includes functionality for:
+
+Generating synthetic data from known mixture models
+Fitting mixture regression models using EM
+Automatically selecting the optimal number of components using Bayesian Information Criterion (BIC)
+Running a full model selection and fitting pipeline in a single line
+This package is useful for unsupervised regression modeling, model-based clustering, and statistical learning in high-dimensional settings.
 
 A lightweight Python package for fitting **finite mixture models of linear regression** using the **Expectation-Maximization (EM)** algorithm — built entirely from scratch.
 
